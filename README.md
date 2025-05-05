@@ -12,7 +12,36 @@
 
 *MENTOR*: NEELA SANTOSH
 
-##This is a simple and interactive quiz application developed using HTML, CSS, and JavaScript. It allows users to answer multiple-choice questions and receive instant feedback on their performance. The interface is clean and responsive, with each question displayed one at a time. At the end of the quiz, the user’s score is shown.The application was built and tested using Visual Studio Code
+##A responsive, Interactive quiz application built with HTML, CSS, and JavaScript. Users can test their knowledge through multiple-choice questions and receive instant feedback on their answers. Scores are calculated and displayed at the end of the quiz.
+
+##Features
+
+•	Dynamic question rendering from a JavaScript array
+
+•	Interactive buttons(correct/incorrect)
+
+•	Real-time score tracking
+
+•	"Next" and "Play Again" functionality
+
+•	Clean and user-friendly UI
+
+##Technologies Used
+
+•	HTML
+
+•	CSS
+
+•	JavaScript 
+
+##Usage
+
+1.	Clone the repository
+   
+2.	Open index.html in any modern web browser
+	
+3.	Start answering and enjoy the quiz!
+
 
 #OUTPUT
 
